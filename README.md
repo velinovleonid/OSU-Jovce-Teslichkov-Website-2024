@@ -25,6 +25,9 @@ The website is designed to provide a user-friendly and informative experience wi
 
 ## How to Get Started
 
+## License
+This project is licensed under the "All Rights Reserved" license. You may not modify, distribute, or use the code without explicit permission.
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/velinovleonid/OSU-Jovce-Teslichkov-Website-2024.git
